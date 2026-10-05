@@ -1,2 +1,18 @@
-# redesigning-food-ordering-
-A UX case study and Figma prototype redesigning the food ordering experience to eliminate hidden fees and solve delivery pain points for budget-conscious users through a 'Budget-First' discovery flow.
+# 🍔 Food Ordering App - UI/UX Design Case Study
+
+A modern, user-friendly food ordering mobile application designed to make food delivery seamless and intuitive. 
+
+## 🔗 Interactive Prototype
+Experience the live, interactive prototype here: 
+👉 [Click here to view the Figma Prototype](https://www.figma.com/make/hfTVas9pD4TKVUMOOcU47d/Assistance-Needed-Now?t=kWypQJspUQqljinF-1)
+
+## 📱 Project Overview
+* **Role:** UI/UX Designer
+* **Key Features:** Intuitive food search, seamless checkout, real-time order tracking, and personalized food recommendations.
+
+## 🎨 Design Showcase
+Here are a few glimpses of the user interface:
+
+
+## 🛠️ Tools Used
+* Figma (Wireframing, UI Design, Prototyping)
